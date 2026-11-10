@@ -1,0 +1,4 @@
+# Only the branding pages are published. Everything else stays in the repo.
+exclude:
+  - mise.toml
+  - scripts
